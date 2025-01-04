@@ -1,0 +1,34 @@
+{
+  "how-to-implement": "",
+  "info": {
+    "url_png_icon_64x64": "https://URL-to-my/icon.png",
+    "url_png_logo": "https://URL-to-my/logo.png",
+    "location": "",
+    "social": {
+      "twitter_handle": "",
+      "telegram_handle": "",
+      "facebook_handle": "",
+      "youtube_handle": "",
+      "twitch_handle": "",
+      "discord_handle": "",
+      "github_handle": ""
+    },
+    "company": {
+      "name": "midnight testing",
+      "addr": "",
+      "city": "",
+      "country": "",
+      "company_id": "",
+      "vat_id": ""
+    },
+    "about": {
+      "me": "Cardano Estusiast",
+      "server": "",
+      "company": ""
+    },
+    "rss": ""
+  },
+  "my-pool-ids": ["9dda57fac3474adbe8b64be4....31f59909231f202b642d33"],
+  "when-satured-then-recommend": [""],
+  "telegram-admin-handle": [""]
+}

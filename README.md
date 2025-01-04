@@ -1,2 +1,8 @@
 # testnet-node
-data.json 
+
+Datos de registro de un pool en la cardano testnet
+
+Ficheros:
+
+- data.json
+- meta-extra.json
