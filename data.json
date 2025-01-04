@@ -1,8 +1,7 @@
 {
   "name": "SERG10 Testnet Pool",
   "description": "Pool for midnight tesnet",
-  "ticker": "SERG1",
-
-  "homepage": "",
-  "extended": ""
+  "ticker": "SER10",
+  "homepage": "https://github.com/sergi10/testnet-node",
+  "extended": "https://github.com/sergi10/testnet-node/blob/main/meta-extra.json"
 }
